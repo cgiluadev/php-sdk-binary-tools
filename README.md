@@ -42,7 +42,7 @@ All the tools included are either scripts or 32-bit binaries. They are therefore
 
 ## Optional, not included
 
-These are not included with the PHP SDK, but might be useful. While Visual C++ is the only required, the others might enable some additional functionality. Care yourself about making them available on your system, if relevant.
+These are not included with the PHP SDK, but might be useful. While Visual C++ is the only required, the others might enable some additional functionality. You may need to make these tools available in your system path, if relevant.
 
 - `Git`        - useful for PHP source management
 - `Cppcheck`   - used for static analysis
